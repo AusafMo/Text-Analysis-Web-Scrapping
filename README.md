@@ -1,6 +1,6 @@
 # Text-Analysis-Web-Scrapping
 		                    
-                        ## Instructions
+#** Instructions**
 
 <li>Create a Python environment from your IDE, or run the script in Colab (if you're using it).
 <li>Pip install Beautiful Soup or add the BeautifulSoup package from the interpreter setting if you are using Pycharm.
